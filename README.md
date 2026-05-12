@@ -1,52 +1,64 @@
-<h1 align="center">Hello 👋🏽, I'm Wuraola Adebisi</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer building responsive, user-focused web experiences.
-</h3>
+# Wuraola Adebisi
+
+### frontend web developer • visual thinker • interface storyteller
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Designing+interfaces+that+feel+human.;Building+frontend+experiences+with+intention.;Code+%2B+communication+%2B+visual+clarity." />
+
+</div>
+
+
+<div align="center">
+
+> I care about interfaces that communicate clearly,  
+> feel intuitive, and leave room for personality.
+
+</div>
+
+<br/>
+
+## Currently
+
+```txt
+✦ Building frontend projects with React + Tailwind
+✦ Exploring UI systems and interaction design
+✦ Interested in thoughtful product experiences
+✦ Learning how strong engineering supports beautiful design
+```
+
+## Toolbox
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TailwindCSS+%7C+JavaScript;Building+clean+and+functional+interfaces" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vscode,git,github" />
 </p>
 
 
-##  About Me
+## A little about me
 
-- 🎓 Graduate of the University of Ibadan  
-- 📚 Studied Communication and Language Arts with a major in Marketing Communication  
-- 💻 Frontend developer focused on modern web technologies  
-- ⚛️ Building with React, JavaScript, and TailwindCSS  
-- 🌱 Currently improving my frontend engineering and UI architecture skills  
-- 🎯 Interested in creating products that are intuitive, accessible, and visually clean  
+I studied Communication and Language Arts at the University of Ibadan,
+with a focus on Marketing Communication.
 
+Somewhere between storytelling, aesthetics, and technology,
+Frontend development started making too much sense to ignore.
 
+Now I build interfaces that balance structure with creativity —
+clean systems, thoughtful visuals, and experiences that actually feel good to use.
 
-## Tech Stack
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode" />
-</p>
+## Elsewhere
 
-
-## Current Focus
-
-- Building real-world frontend projects  
-- Strengthening React and JavaScript fundamentals  
-- Improving responsive design and accessibility practices  
-- Learning scalable frontend workflows and collaboration  
-
-
-## Connect With Me
-
-<p align="left">
+<p align="center">
 <a href="mailto:the.wuraola.adebisi@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://img.shields.io/badge/email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/wuraola-adebisi">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://img.shields.io/badge/linkedin-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Ms_Wuraola">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  <img src="https://img.shields.io/badge/twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
