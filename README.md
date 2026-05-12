@@ -23,11 +23,11 @@ Frontend Developer building responsive, user-focused web experiences.
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode" />
 </p>
 
 
-## 📌 Current Focus
+## Current Focus
 
 - Building real-world frontend projects  
 - Strengthening React and JavaScript fundamentals  
@@ -49,13 +49,4 @@ Frontend Developer building responsive, user-focused web experiences.
 <a href="https://x.com/Ms_Wuraola">
   <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wuraola-Adebisi&show_icons=true&theme=tokyonight" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuraola-Adebisi&layout=compact&theme=tokyonight" />
 </p>
